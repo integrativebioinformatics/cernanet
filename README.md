@@ -1,6 +1,10 @@
 # cernanet
 A comprehensive database for microRNA-mRNA and microRNA-lncRNA interactions
 
+## Acceso a la Red
+
+La red de interacciones está disponible en el siguiente enlace: https://drive.google.com/drive/folders/1-5BDGsogh7k9JxXNrRKkY-rXRpTd4vcU?usp=drive_link
+
 # README
 
 ## Descripción del Archivo
